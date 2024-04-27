@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889792672083",
+    "project_id": "fir-siparis",
+    "storage_bucket": "fir-siparis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889792672083:android:6507265b0ffae9259931a6",
+        "android_client_info": {
+          "package_name": "com.example.firestore_siparis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ToL4yDhIeq4Cc07oPxNUBJbAW4isS9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
